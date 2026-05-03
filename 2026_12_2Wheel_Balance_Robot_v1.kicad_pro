@@ -195,6 +195,7 @@
       ],
       "track_widths": [
         0.0,
+        0.1016,
         0.2032,
         0.254,
         0.3048,
@@ -731,7 +732,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
